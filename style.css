@@ -273,7 +273,7 @@ border-radius: 15px;
     background-color: #01ACFD;
     display: flex;
     justify-content: center;
-    align-items: ;
+    align-items:center ;
 }
 .columnbox{
     width: 1070px;
@@ -381,8 +381,6 @@ border-radius: 15px;
     .section5{
         width: 100vw;
         height: 1100px;
-        /* display: flex;
-        flex-direction: column; */
          margin-top: 1100px;
         margin-bottom: 100px; 
     }
